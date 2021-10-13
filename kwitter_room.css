@@ -1,0 +1,33 @@
+body{
+    background-color: lightslategray;
+}
+
+#icon
+{
+    margin-left: 20px;
+}
+
+#logout
+{
+    margin-top: 50px;
+    margin-left:1000px;
+}
+
+.heading
+{
+    background-color: lightyellow;
+    border-radius: 100px;
+    width:500px;
+    height:100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#input_roomname
+{
+     width:80%;
+}
+
+#add_room
+{
+    width:50%;
+}
